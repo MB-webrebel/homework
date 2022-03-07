@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 18" width="25" height="18">
+	<title>Web 1920 – 1</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1417 -81L503 -81L503 2695L-1417 2695Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M-7 0L32 0L32 17L-7 17L-7 0Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #95989a } 
+	</style>
+	<g id="Web 1920 – 1" clip-path="url(#cp1)">
+		<g id="Mask Group 1" clip-path="url(#cp2)">
+			<path id="youtube" fill-rule="evenodd" class="shp0" d="M24.76 8.66C24.76 8.66 24.76 12.67 24.26 14.6C23.97 15.65 23.14 16.49 22.08 16.77C20.15 17.28 12.42 17.28 12.42 17.28C12.42 17.28 4.72 17.28 2.77 16.75C1.71 16.47 0.88 15.63 0.59 14.58C0.08 12.67 0.08 8.64 0.08 8.64C0.08 8.64 0.08 4.63 0.59 2.7C0.88 1.65 1.73 0.79 2.77 0.51C4.7 0 12.42 0 12.42 0C12.42 0 20.15 0 22.08 0.53C23.14 0.81 23.97 1.65 24.26 2.7C24.79 4.63 24.76 8.66 24.76 8.66ZM16.39 8.64L9.96 4.94L9.96 12.34L16.39 8.64Z" />
+		</g>
+	</g>
+</svg>

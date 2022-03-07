@@ -1,0 +1,15 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 21" width="11" height="21">
+	<title>Web 1920 – 1</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1506 -79L414 -79L414 2697L-1506 2697Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #95989a } 
+	</style>
+	<g id="Web 1920 – 1" clip-path="url(#cp1)">
+		<path id="facebook" class="shp0" d="M8.82 3.99C7.42 3.99 7.15 4.68 7.15 5.68L7.15 8.06L10.3 8.06L9.87 11.53L7.15 11.53L7.15 20.24L3.68 20.24L3.68 11.53L0.85 11.53L0.85 8.06L3.68 8.06L3.68 5.33C3.68 2.37 5.44 0.75 8 0.75C9.23 0.75 10.29 0.85 10.6 0.89L10.6 3.99L8.82 3.99L8.82 3.99Z" />
+	</g>
+</svg>
